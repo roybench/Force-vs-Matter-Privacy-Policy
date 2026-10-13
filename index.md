@@ -73,6 +73,12 @@ Deleting support correspondence does not delete information held independently b
 
 We will update this policy if the app’s or website’s information-handling practices change. The effective date above identifies the latest revision.
 
+## App Support
+
+For issues, questions, feedback or feature requests about Force vs. Matter, email [roy.raedisch@icloud.com](mailto:roy.raedisch@icloud.com).
+
+When reporting an issue, please describe what happened and what you expected. You may include your app version and iOS/iPadOS version. Please do not send passwords, payment information or other sensitive information.
+
 ## Contact
 
 For privacy questions or requests, use the privacy contact listed at the beginning of this policy.
